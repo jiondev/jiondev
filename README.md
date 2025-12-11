@@ -44,12 +44,3 @@ This GitHub is where those ideas live.
   <img src="https://img.shields.io/badge/Photography-000000?logo=camera&logoColor=white" />
   <img src="https://img.shields.io/badge/UX%20Design-FF6F61?logo=figma&logoColor=white" />
 </p>
-
----
-
-## 🌱 Currently Learning
-
-- Improving modern PHP practices  
-- Strengthening JavaScript skills  
-- Exploring lightweight CMS tools like **Kirby**   
-
