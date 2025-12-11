@@ -8,17 +8,13 @@
 
 ## 👨‍💻 About Me
 
-I'm **Jamie Ion**, a web developer based in **Gateshead, UK**.  
-I'm a father 👨‍👧‍👦, a software developer 👨‍💻, and an outdoor enthusiast who enjoys walking 🚶‍♂️ and cycling 🚴‍♂️ in my free time.
+I'm **Jamie Ion**, a web developer and hobbyist maker based in **Gateshead, UK**.  
+Outside of work, I'm a father 👨‍👧‍👦, a lifelong tinkerer, and an outdoor enthusiast who enjoys walking 🚶‍♂️ across the North East.
 
-I specialise in building **clean, fast websites** for small businesses and local UK charities. Whether you're starting from scratch or refreshing an existing website, I focus on creating modern digital experiences that reflect your mission and deliver results.
+This GitHub profile is home to my **personal projects**, experiments, and digital hobbies.  
 
-Alongside web development, I support clients with:
-- **Social media strategy & content management**
-- **Hosting & domain management**
-- **Business email setup** (Office 365 / Google Workspace)
-
-My aim? To make the technical side feel effortless so you can focus on what you do best.
+I enjoy building things that connect code with the real world — maps, data, and places.  
+This GitHub is where those ideas live.
 
 ---
 
@@ -51,36 +47,9 @@ My aim? To make the technical side feel effortless so you can focus on what you 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Jamie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jamie-ion&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamie-ion&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 - Improving modern PHP practices  
 - Strengthening JavaScript skills  
-- Exploring lightweight CMS tools like **Kirby**  
-- Small business workflow optimisation & automation  
-
----
-
-## 📫 Get in Touch
-
-<p>
-  <a href="https://www.linkedin.com/in/jamie-ion"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hello@jamieion.co.uk"><img src="https://img.shields.io/badge/Email-hello@jamieion.co.uk-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://jamieion.co.uk"><img src="https://img.shields.io/badge/Website-jamieion.co.uk-1D72F3?logo=google-chrome&logoColor=white" /></a>
-</p>
-
----
-
-### ⭐ Thanks for visiting my profile!
+- Exploring lightweight CMS tools like **Kirby**   
 
